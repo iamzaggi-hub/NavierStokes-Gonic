@@ -22,3 +22,20 @@ The simulations provided in `/src` demonstrate that while the SI (360°) model d
 
 ## 📄 Publication
 This work is intended for **arXiv** and research submission to **ANID (Chile)**.
+
+# 👨‍🚀 ZAGGI | iamzaggi-hub
+**Matemático-Astronauta** 
+
+> *"Unifying the discrete and the continuous through Gonic Geometry."*
+
+### 🔬 Research Focus
+- **Fluid Dynamics:** Resolving Navier-Stokes existence and smoothness via Gonic Metric (400g).
+- **Number Theory:** New approaches to the Collatz Conjecture and Riemann Hypothesis.
+- **Cosmology:** Redefining the Hubble constant through geometric curvature.
+
+### 📜 Formal Credentials
+- **ORCID:** [0009-0004-8127-1933](https://orcid.org)
+- **ISSN:** 0710-4349
+
+---
+*Currently validating the Gonic Navier-Stokes engine on vintage hardware to prove algorithmic supremacy over brute-force computing.*
