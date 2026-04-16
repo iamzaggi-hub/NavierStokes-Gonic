@@ -40,7 +40,7 @@ The simulations provided in `/src` demonstrate that while the SI (360°) model d
 
 ### Benchmark Results
 
-![Stability Divergence](results/comparative_plot.png)
+![Stability Divergence](Graph/comparativa_final_zaggi.png)
 
 *Tested on vintage hardware (HP EliteBook 8440p) to prove algorithmic efficiency over brute-force computing.*
 
