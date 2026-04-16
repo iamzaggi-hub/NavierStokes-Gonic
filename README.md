@@ -36,6 +36,6 @@ This work is intended for **arXiv** and research submission to **ANID (Chile)**.
 ### 📜 Formal Credentials
 - **ORCID:** [0009-0004-8127-1933](https://orcid.org)
 - **ISSN:** 0710-4349
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19601734.svg)](https://doi.org/10.5281/zenodo.19601734)
 ---
 *Currently validating the Gonic Navier-Stokes engine on vintage hardware to prove algorithmic supremacy over brute-force computing.*
