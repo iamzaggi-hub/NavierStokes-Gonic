@@ -36,7 +36,7 @@ This exponential decay ensures that no "blow-up" occurs in finite time, fulfilli
 
 ## 💻 Numerical Validation
 
-The simulations provided in `/src` demonstrate that while the SI (360°) model diverges or traps energy (numerical chaos), the **Gonic Model** converges gracefully to equilibrium.
+The simulations provided in `/Python` demonstrate that while the SI (360°) model diverges or traps energy (numerical chaos), the **Gonic Model** converges gracefully to equilibrium.
 
 ### Benchmark Results
 
