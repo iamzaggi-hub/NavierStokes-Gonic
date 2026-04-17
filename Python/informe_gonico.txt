@@ -1,0 +1,7 @@
+Parametros: Nx=256, Ny=256, Lx=2000000.0, Ly=2000000.0, amp=2.0, sigma=50000.0, Tfinal=7200.0
+Estimacion memoria arrays (bytes): 786432
+--- Resultados ---
+SI (A=0): energia_inicial=0.000000e+00, energia_pico=5.990389e-03, energia_final=5.990389e-03, disipacion%=0.00, dt=10.0000, pasos=720, tiempo_ejec=6.29s
+Gónico (A=1/9): energia_inicial=0.000000e+00, energia_pico=1.209417e-08, energia_final=1.207020e-08, disipacion%=0.20, dt=10.0000, pasos=720, tiempo_ejec=6.67s
+Archivo imagen: comparacion_gonico_vs_SI.png
+Versiones: numpy 2.4.4, matplotlib 3.10.8
