@@ -2,6 +2,7 @@ UPDATE TESIS version 2.1 - 17/04/2026
 # NavierStokes-Gonic: Global Stability via Gonic Metric 🌊
 
 [![Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281/zenodo.19601734-blue)](https://doi.org/10.5281/zenodo.19601734)
+[![Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281/zenodo.19633231-blue)](https://doi.org/10.5281/zenodo.19633231)
 [![OSF DOI](https://img.shields.io/badge/OSF-10.17605/OSF.IO/475ZN-blue)](https://doi.org/10.17605/OSF.IO/475ZN)
 [![HAL](https://img.shields.io/badge/HAL-hal--05593651-blue)](https://hal.science/hal-05593651)
 [![GitHub](https://img.shields.io/badge/GitHub-iamzaggi--hub/NavierStokes--Gonic-black)](https://github.com/iamzaggi-hub/NavierStokes-Gonic)
