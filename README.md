@@ -1,3 +1,4 @@
+UPDATE TESIS version 2.1 - 16/04/2026
 # NavierStokes-Gonic: Global Stability via Gonic Metric 🌊
 
 [![Zenodo DOI](https://img.shields.io/badge/Zenodo-10.5281/zenodo.19601734-blue)](https://doi.org/10.5281/zenodo.19601734)
