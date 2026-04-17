@@ -29,6 +29,7 @@ This exponential decay ensures that no "blow-up" occurs in finite time, fulfilli
 | Platform | Identifier | Status |
 |----------|------------|--------|
 | **Zenodo** | [10.5281/zenodo.19601734](https://doi.org/10.5281/zenodo.19601734) | ✅ Active |
+| **Zenodo** | [10.5281/zenodo.19633231](https://doi.org/10.5281/zenodo.19601734) | ✅ Active |
 | **OSF** | [10.17605/OSF.IO/475ZN](https://doi.org/10.17605/OSF.IO/475ZN) | ✅ Active |
 | **HAL** | [hal-05593651](https://hal.science/hal-05593651) | ⏳ Awaiting moderation |
 | **GitHub** | [iamzaggi-hub/NavierStokes-Gonic](https://github.com/iamzaggi-hub/NavierStokes-Gonic) | ✅ Public |
